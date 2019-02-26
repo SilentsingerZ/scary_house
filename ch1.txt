@@ -5,4 +5,4 @@ author: Yonghao(Freddie) Zhang
 
 ## Preface
 
-This is the greatest book of all time!(test!)
+This is a good book of all time!(test!)
